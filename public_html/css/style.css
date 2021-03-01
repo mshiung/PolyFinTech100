@@ -327,7 +327,7 @@ header {
     font-size: 18px;
     font-weight: 300;
     line-height: 31px;
-    margin: 20px 10px 60px 10px;
+    margin: 20px 0px 60px 0px;
 }
 /*--------------------
 
@@ -793,7 +793,7 @@ figure.effect-bubba:hover h2, figure.effect-bubba:hover p {
 .short-section {
     border-top: 1px solid #5D5D5F;
     border-bottom: 1px solid #5D5D5F;
-    padding-top: 70px;
+    padding-top: 30px;
     padding-bottom: 70px;
 }
 .counter-item h2 {
