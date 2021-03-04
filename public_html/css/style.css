@@ -279,10 +279,10 @@ header {
 }
 .intro-text .intro-heading {
     font-weight: 900;
-    font-size: 8vw;
+    font-size: 6vw;
     line-height: 48px;
     margin-bottom: 25px;
-    letter-spacing: -3px;
+    letter-spacing: -2px;
     word-spacing: 10px;
     color: #FFFFFF;
     text-shadow: 1px 1px 1px rgb(0, 0, 0);
@@ -327,7 +327,7 @@ header {
     font-size: 18px;
     font-weight: 300;
     line-height: 31px;
-    margin: 20px 0px 60px 0px;
+    margin: 20px 20px 60px 20px;
 }
 /*--------------------
 
